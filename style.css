@@ -409,6 +409,7 @@ a img.aligncenter {
 }
 .no-js .cd-words-wrapper b.is-visible {
   opacity: 1;
+  font-size: 20px;
 }
 
 /* -------------------------------- 
@@ -420,10 +421,11 @@ xclip
   display: inline-block;
   padding: .2em 0;
   color: #ffffff;
-  font-size: 30px;
+  font-size: 27px;
 }
 .cd-headline.clip span b{
-	text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 20px;
 }
 .cd-headline.clip .cd-words-wrapper {
   overflow: hidden;
